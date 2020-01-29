@@ -1,0 +1,41 @@
+<svg width="74.99999999999999" height="74.99999999999999" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="77" width="77" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+  <g id="svg_15">
+   <g id="svg_12">
+    <title transform="translate(-62447.83984375,0) translate(0,-62447.83984375) ">background</title>
+    <rect x="-62448.839844" y="-62448.839844" width="502" height="502" id="svg_10" fill="none"/>
+    <g id="svg_9" display="none">
+     <rect id="svg_13" width="75" height="75" x="-62447.839844" y="-62447.839844" stroke-width="0" fill="url(#gridpattern)"/>
+    </g>
+   </g>
+   <g id="svg_14">
+    <title transform="translate(-62447.83984375,0) translate(0,-62447.83984375) ">Layer 1</title>
+    <rect fill="#bf0000" stroke-width="0" x="-62422.839844" y="-62422.839844" width="450" height="450" id="svg_8" stroke="#121212" rx="30"/>
+    <text fill="#ffffff" stroke="#121212" stroke-width="0" x="-62378.503906" y="-62111.339844" id="svg_7" font-size="250" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve" font-weight="bold" font-style="italic">7m</text>
+   </g>
+  </g>
+  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+  <g stroke="null" id="svg_30">
+   <g stroke="null" transform="matrix(0.1666516780099872,0,0,0.1666516780099872,-169.51162722192277,-108.79241084547353) " id="svg_27">
+    <title stroke="null" transform="translate(0,-3.4287593364715576) translate(-3.4287421703338623,-1.1368683772161603e-13) translate(0,-3.47636079788208) translate(-3.4763362407684326,-1.1368683772161603e-13) translate(1.1368683772161603e-13,-34.37033462524414) translate(-34.37038803100586,0) translate(1.1368683772161603e-13,-165.42068481445312) translate(-267.5322265625,1.1368683772161603e-13) translate(326.521728515625,-139.93788146972656) translate(974.467529296875,0) translate(0,974.467529296875) ">background</title>
+    <rect stroke="null" x="991.181565" y="626.833508" width="502" height="502" id="svg_25" fill="none"/>
+    <g stroke="null" id="svg_24" display="none">
+     <rect stroke="null" id="svg_28" width="75" height="75" x="992.181565" y="627.833508" stroke-width="0" fill="url(#gridpattern)"/>
+    </g>
+   </g>
+   <g stroke="null" transform="matrix(0.1666516780099872,0,0,0.1666516780099872,-169.51162722192277,-108.79241084547353) " id="svg_29">
+    <title stroke="null" transform="translate(0,-3.4287593364715576) translate(-3.4287421703338623,-1.1368683772161603e-13) translate(0,-3.47636079788208) translate(-3.4763362407684326,-1.1368683772161603e-13) translate(1.1368683772161603e-13,-34.37033462524414) translate(-34.37038803100586,0) translate(1.1368683772161603e-13,-165.42068481445312) translate(-267.5322265625,1.1368683772161603e-13) translate(326.521728515625,-139.93788146972656) translate(974.467529296875,0) translate(0,974.467529296875) ">Layer 1</title>
+    <rect stroke="#121212" fill="#bf0000" stroke-width="0" x="1017.181565" y="652.833508" width="450" height="450" id="svg_23" rx="30"/>
+    <text stroke="#121212" fill="#ffffff" stroke-width="0" x="1061.517503" y="964.333508" id="svg_22" font-size="250" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve" font-weight="bold" font-style="italic">7m</text>
+   </g>
+  </g>
+ </g>
+</svg>
