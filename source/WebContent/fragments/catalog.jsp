@@ -25,7 +25,7 @@
 					for(int i = 0; i < catalog.size(); i++){
 					%> 
 					<div class="col-lg-3 col-md-6 col-sm-6 my-2" id="movie<%=catalog.get(i).getId()%>">
-					  <img class="card-img-top img-fluid rounded" src="<%= catalog.get(i).getImgpath() %>" alt="Card image cap">
+					  <img class="card-img-top img-fluid rounded" height="400" src="<%= catalog.get(i).getImgpath() %>" alt="Card image cap">
 					  <div class="card-body">
 					    <h5 class="card-title"><a href="movieinfo.jsp?movie=<%=catalog.get(i).getId()%>"><%= catalog.get(i).getTitle() %></a></h5>
 					    <p class="card-text"><%= catalog.get(i).getDescriptionAbbv()%></p>

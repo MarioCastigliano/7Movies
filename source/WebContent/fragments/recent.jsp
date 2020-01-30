@@ -17,6 +17,7 @@
 		<h2 class="title tund">Aggiunti di recente</h2>
 		<% 
 			ArrayList<MovieBean> movies = MovieBeanDAO.getRecents();
+			if(movies.size() != 0){
 		%> 
 		<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
 		  <div class="carousel-inner">
@@ -52,6 +53,9 @@
 		    </div>
 		  </div>
 		</div>
+		<%
+			}
+		%>
 	</div>
 	</body>
 </html>
