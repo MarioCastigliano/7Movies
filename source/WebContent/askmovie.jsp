@@ -16,10 +16,10 @@
 	<%}%>
 	<section class="container my-5">
 			<h1 class="title">Richiedi un film</h1>
-			<form class="col-xs-12 col-lg-6 col-md-8" name="loginform" method="post" action="Login">
+			<form class="col-xs-12 col-lg-6 col-md-8" name="loginform" method="post" action="">
 			  <div class="form-group">
 			    <label for="exampleInputEmail1">Titolo</label>
-			    <input type="email" class="form-control ValidationServer01" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="es. Arancia Meccanica" name="movie" required>
+			    <input type="text" class="form-control ValidationServer01" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="es. Arancia Meccanica" name="movie" required>
 			  	
 			  </div>
 			  <div class="form-group">
