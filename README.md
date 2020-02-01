@@ -12,7 +12,7 @@ Ogni utente ha quindi la possibilità di recensire i film in catalogo, sia che n
 - Siviero Luca (matr. 0512104862)
 
 
-###  Struttura del progetto
+###  Documentazione del progetto
 Per la realizzazione del progetto sono stati stilati i seguenti documenti:
   - Problem Statement 
   - Requirements Analysis Document (RAD)
