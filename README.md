@@ -7,13 +7,12 @@ La piattaforma 7Movies nasce per soddisfare due scopi: permettere al pubblico la
 Il primo obiettivo viene raggiunto grazie alla possibilità, che la piattaforma offre, di acquistare in formato digitale le pellicole a cui si è interessati, sfruttando il meccanismo definito come digital delivery che rende più immediata la fruizione.
 Ogni utente ha quindi la possibilità di recensire i film in catalogo, sia che ne abbia acquistato una copia sulla piattaforma che altrimenti. 
 
-##  Partecipanti al progetto
-```
-Castigliano Mario (matr. 0512104718)
-Siviero Luca (matr. 0512104862)
-```
+###  Partecipanti al progetto
+- Castigliano Mario (matr. 0512104718)
+- Siviero Luca (matr. 0512104862)
 
-##  Struttura del progetto
+
+###  Struttura del progetto
 Per la realizzazione del progetto sono stati stilati i seguenti documenti:
 ```
   - Problem Statement 
