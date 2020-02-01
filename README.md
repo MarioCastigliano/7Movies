@@ -12,3 +12,12 @@ Ogni utente ha quindi la possibilità di recensire i film in catalogo, sia che n
 Castigliano Mario (matr. 0512104718)
 Siviero Luca (matr. 0512104862)
 ```
+
+##  Struttura del progetto
+```
+  -source
+  -documenti
+    -pdf
+      -testing
+    -odt
+```
