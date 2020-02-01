@@ -14,9 +14,7 @@ Ogni utente ha quindi la possibilità di recensire i film in catalogo, sia che n
 
 ###  Struttura del progetto
 Per la realizzazione del progetto sono stati stilati i seguenti documenti:
-```
   - Problem Statement 
   - Requirements Analysis Document (RAD)
   - System Design Document (SDD)
   - Object Design Document (ODD)
-```
