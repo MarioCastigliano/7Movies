@@ -1,5 +1,5 @@
 # 7Movies - Corso di Ignegneria del Software
-Progetto per il Corso di Ingegneria del Software appartenente al corso di laurea triennale in Informatica (L-31) dell'Università degli Studi di Salerno. 
+Progetto per il corso di Ingegneria del Software appartenente al corso di laurea triennale in Informatica (L-31) dell'Università degli Studi di Salerno. 
 
 
 ##  Descrizione del progetto
