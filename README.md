@@ -14,10 +14,10 @@ Siviero Luca (matr. 0512104862)
 ```
 
 ##  Struttura del progetto
+Per la realizzazione del progetto sono stati stilati i seguenti documenti:
 ```
-  -source
-  -documenti
-    -pdf
-      -testing
-    -odt
+  - Problem Statement
+  - Requirement Analisis Document
+  - System Design Document
+  - Object Design Document
 ```
