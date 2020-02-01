@@ -17,7 +17,7 @@ Siviero Luca (matr. 0512104862)
 Per la realizzazione del progetto sono stati stilati i seguenti documenti:
 ```
   - Problem Statement 
-  - Requirement Analisis Document (RAD)
+  - Requirements Analysis Document (RAD)
   - System Design Document (SDD)
   - Object Design Document (ODD)
 ```
