@@ -8,5 +8,7 @@ Il primo obiettivo viene raggiunto grazie alla possibilità, che la piattaforma 
 Ogni utente ha quindi la possibilità di recensire i film in catalogo, sia che ne abbia acquistato una copia sulla piattaforma che altrimenti. 
 
 ##  Partecipanti al progetto
+```
 Castigliano Mario (matr. 0512104718)
 Siviero Luca (matr. 0512104862)
+```
