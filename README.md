@@ -16,8 +16,8 @@ Siviero Luca (matr. 0512104862)
 ##  Struttura del progetto
 Per la realizzazione del progetto sono stati stilati i seguenti documenti:
 ```
-  - Problem Statement
-  - Requirement Analisis Document
-  - System Design Document
-  - Object Design Document
+  - Problem Statement 
+  - Requirement Analisis Document (RAD)
+  - System Design Document (SDD)
+  - Object Design Document (ODD)
 ```
